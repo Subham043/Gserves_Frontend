@@ -74,11 +74,11 @@ const Testimonial = () => {
 
 
     const [testimonial, setTestimonial] = useState([
-        {id:1,name:"Sunil",description:"Happy with the service", image:testimonialimg},
-        {id:2,name:"Chandan",description:"Happy with the service", image:testimonialimg},
-        {id:3,name:"Manoj",description:"Happy with the service", image:testimonialimg},
-        {id:4,name:"Dilip",description:"Happy with the service", image:testimonialimg},
-        {id:5,name:"Shankar",description:"Happy with the service", image:testimonialimg},
+        {id:1,name:"Sunil",description:"Happy with the service", image:"../Assets/icons/testimonial.png"},
+        {id:2,name:"Chandan",description:"Happy with the service", image:"../Assets/icons/testimonial.png"},
+        {id:3,name:"Manoj",description:"Happy with the service", image:"../Assets/icons/testimonial.png"},
+        {id:4,name:"Dilip",description:"Happy with the service", image:"../Assets/icons/testimonial.png"},
+        {id:5,name:"Shankar",description:"Happy with the service", image:"../Assets/icons/testimonial.png"},
     ]);
 
     return (

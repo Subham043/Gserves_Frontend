@@ -27,7 +27,7 @@ const Hero = () => {
                                 <p>Very informative and structured procedures</p>
                             </div>
                             <div className="tagimage">
-                                <img src={employeeImg} alt="" />
+                                <img src={`../Assets/icons/employee.png`} alt="" />
                             </div>
                         </div>
                     </div>
