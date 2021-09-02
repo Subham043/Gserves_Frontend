@@ -9,7 +9,7 @@ import documents from "../../Assets/icons/document.png"
 import laptop from "../../Assets/icons/service.png"
 import notepad from "../../Assets/icons/application.png"
 import printer from "../../Assets/icons/print.png"
-import employee from "../../Assets/icons/employee.png"
+import employeeImg from "../../Assets/icons/employee.png"
 import ReactTooltip from 'react-tooltip';
 
 
@@ -27,7 +27,7 @@ const Hero = () => {
                                 <p>Very informative and structured procedures</p>
                             </div>
                             <div className="tagimage">
-                                <img src={employee} alt="" />
+                                <img src={employeeImg} alt="" />
                             </div>
                         </div>
                     </div>

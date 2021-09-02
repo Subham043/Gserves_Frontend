@@ -1,10 +1,11 @@
 import React from 'react'
 import "./Counter.css";
 import { Container } from 'react-bootstrap';
+import bannerImg from '../../Assets/counter-banner.jpg'
 
 const Counter = () => {
     return (
-        <div className="counter__div">
+        <div className="counter__div" style={{backgroundImage:`linear-gradient(rgba(0, 160, 139, 0.9), rgba(0, 160, 139, 0.9)), url(${bannerImg})`}}>
             <div className="counter__inner__div">
 
                 <Container>

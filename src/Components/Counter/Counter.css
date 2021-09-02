@@ -1,5 +1,5 @@
 .counter__div{
-    background-image: linear-gradient(rgba(0, 160, 139, 0.9), rgba(0, 160, 139, 0.9)), url(../../Assets/counter-banner.jpg);
+    /* background-image: linear-gradient(rgba(0, 160, 139, 0.9), rgba(0, 160, 139, 0.9)), url(../../Assets/counter-banner.jpg); */
     position: relative;
     min-height: 430px;
     background-position: bottom;
