@@ -1,0 +1,250 @@
+.admin__right__main__service__view .card-img-top{
+    width:35%;
+    display:block;
+    margin-left:auto;margin-right:auto;
+}
+
+.admin__right__main__service__view  .form__card__sticky{
+    position: sticky;
+    top:245px;
+}
+
+.admin__right__main__service__view .form__card .card-title{
+    text-align: center;
+    color:rgba(0, 160, 139, 1);
+}
+
+.admin__right__main__service__view .form__card .card__btn{
+    background-color:rgba(0, 160, 139, 1);
+    border-color:rgba(0, 160, 139, 1);
+    margin-right:5px;
+    transition: all 0.3s ease-in-out;
+}
+
+.admin__right__main__service__view .form__card form{
+    padding:10px;
+}
+
+.admin__right__main__service__view .form__card .card__btn:hover{
+    background-color:rgba(0, 160, 139, 0.8);
+    box-shadow: -5px 12px 8px 0 rgb(0 0 0 / 25%);
+}
+
+.admin__right__main__service__view .card{
+    box-shadow: -5px 12px 8px 0 rgb(0 0 0 / 25%);
+    transition: all 0.3s ease-in-out;
+}
+
+.admin__right__main__service__view .card:hover{
+    transform: scale(1.03, 1.03);
+}
+
+.admin__right__main__service__view .form__card .card-text{
+    text-align: center;
+}
+
+.admin__right__main__service__view .create__btn__div{
+    padding: 15px;
+    display: flex;
+    justify-content:flex-end;
+}
+
+.admin__right__main__service__view .create__btn__div .card__btn{
+    background-color:rgba(0, 160, 139, 1);
+    border-color:rgba(0, 160, 139, 1);
+    margin-right:5px;
+    transition: all 0.3s ease-in-out;
+}
+
+.admin__right__main__service__view .create__btn__div .card__btn:hover{
+    background-color:rgba(0, 160, 139, 0.7);
+    box-shadow: -5px 12px 8px 0 rgb(0 0 0 / 25%);
+}
+
+
+
+.admin__right__main__service__view .table{
+    min-width: 100%;
+    overflow-x: scroll;
+}
+
+.admin__right__main__service__view .action__button{
+    border-radius: 5px;
+    text-align: center;
+    margin:5px;
+    padding: 15px;
+    font-size: 18px;
+    line-height:0;
+    display:inline-block;
+}
+
+.admin__right__main__service__view .action__edit{
+    background:rgba(24, 24, 252, 1);
+    color:white;
+}
+
+.admin__right__main__service__view .action__edit:hover{
+    background:rgba(24, 24, 252, 0.8);
+}
+
+.admin__right__main__service__view .action__delete{
+    background:rgba(250, 5, 5, 1);
+    color:white;
+}
+
+.admin__right__main__service__view .city__page__delete{
+    background:transparent !important;
+    color: rgba(250, 5, 5, 1);
+    transition: all 0.3s ease-in-out;
+    padding:0;
+    margin:0;
+}
+
+.admin__right__main__service__view .city__page__delete svg{
+    stroke: rgba(250, 5, 5, 1) !important;
+    fill: rgba(250, 5, 5, 1) !important;
+}
+
+.admin__right__main__service__view .city__page__delete:hover{
+    color: rgba(250, 5, 5, 0.8);
+    transform: scale(1.3);
+}
+
+.admin__right__main__service__view .action__delete:hover{
+    background:rgba(250, 5, 5, 0.8);
+}
+
+.city__page__view .city__page__add svg{
+    background:transparent !important;
+    transition: all 0.3s ease-in-out !important;
+    padding:0 !important;
+    margin:0 !important;
+}
+
+.city__page__view .city__page__add svg{
+    stroke: green !important;
+    fill: green !important;
+}
+
+.city__page__view .city__page__add svg:hover{
+    transform: scale(1.3) !important;
+}
+
+.city__page__view .city__page__view svg{
+    background:transparent !important;
+    transition: all 0.3s ease-in-out !important;
+    padding:0 !important;
+    margin:0 !important;
+}
+
+.city__page__view .city__page__view svg path{
+    stroke: blue !important;
+}
+
+.city__page__view .city__page__view svg:hover{
+    transform: scale(1.3) !important;
+}
+
+.admin__right__main__service__view .action__view{
+    background:rgba(197, 6, 197, 1);
+    color:white;
+}
+
+.admin__right__main__service__view .action__view:hover{
+    background:rgba(197, 6, 197, 0.8);
+}
+
+.admin__right__main__service__view .action__view svg path{
+    stroke: white;
+}
+
+.admin__right__main__service__view .create__btn__div .filter__select__style{
+    width:15%;
+    margin-right: 10px;
+}
+
+.admin__right__main__service__create .form__card, .admin__right__main__service__create .demo__card{
+    padding:15px;
+    margin-left:auto;
+    margin-right:auto;
+
+}
+
+.admin__right__main__service__create .form__card{
+    box-shadow: -5px 12px 8px 0 rgb(0 0 0 / 25%);
+}
+
+.admin__right__main__service__create .admin__right__main__service__create__form{
+    text-align:center;
+    margin-bottom: 30px;
+    color: rgba(0, 160, 139, 1);
+}
+
+.admin__right__main__service__create .admin__right__main__service__create__form h2{
+    display:inline-block;
+    /* border-bottom: 3px solid rgba(0, 160, 139, 1);
+    padding-bottom: 10px; */
+}
+
+.admin__right__main__service__create .card__btn{
+    background-color:rgba(0, 160, 139, 1);
+    border-color:rgba(0, 160, 139, 1);
+    margin-right:5px;
+    transition: all 0.3s ease-in-out;
+}
+
+.admin__right__main__service__create .card__btn:hover{
+    background-color:rgba(0, 160, 139, 0.8);
+    box-shadow: -5px 12px 8px 0 rgb(0 0 0 / 25%);
+}
+
+.card__demo__div .card-img-top{
+    width:35%;
+    display:block;
+    margin-left:auto;margin-right:auto;
+}
+
+.card__demo__div .form__card .card-title{
+    text-align: center;
+    color:rgba(0, 160, 139, 1);
+}
+
+.card__demo__div .form__card .card__btn{
+    background-color:rgba(0, 160, 139, 1);
+    border-color:rgba(0, 160, 139, 1);
+    margin-right:5px;
+    transition: all 0.3s ease-in-out;
+}
+
+.card__demo__div .form__card .card__btn:hover{
+    background-color:rgba(0, 160, 139, 0.8);
+    box-shadow: -5px 12px 8px 0 rgb(0 0 0 / 25%);
+}
+
+.card__demo__div .card{
+    box-shadow: -5px 12px 8px 0 rgb(0 0 0 / 25%);
+    transition: all 0.3s ease-in-out;
+}
+
+.card__demo__div .card:hover{
+    transform: scale(1.03, 1.03);
+}
+
+.card__demo__div .form__card .card-text{
+    text-align: center;
+}
+
+.admin__right__main__service__create .card__demo__div{
+    /* display:grid;
+    place-items: center; */
+}
+
+.city__search{
+    width: 100% !important;
+}
+
+.city__search .search__input{
+    outline: none;
+    border: none;
+    border-bottom: 1px solid rgba(0, 160, 139, 1);
+}
